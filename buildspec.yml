@@ -20,4 +20,6 @@ phases:
 artifacts:
   files:
     - target/NextWork-DevOps-Webap.war
+    - appspec.yml
+    - scripts/**/*
   discard-paths: no
