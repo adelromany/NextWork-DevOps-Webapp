@@ -82,7 +82,7 @@ By the end of the challenge, I have:
 
 ## 🙌 Special Thanks
 
-Thanks to the mentor **Natasha** and team at **NextWork** ** for crafting this incredible challenge!
+Huge thanks to the incredible Natasha — an inspiring, energetic, and hilarious mentor — and the amazing team at NextWork for designing such an impactful and engaging challenge!
 
 ---
 

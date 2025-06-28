@@ -125,7 +125,7 @@
 
     <div class="container">
         <p class="contact-info">
-            <strong>Contact:</strong> <em>Giza, Egypt</em> | <strong>Email:</strong> <a href="mailto:adelromany99@gmail.com">adelromany99@gmail.com</a> | <strong>Phone:</strong> (telephone) | <strong>LinkedIn:</strong> <a href="(LinkedIn)">LinkedIn</a> | <strong>GitHub:</strong> <a href="(GitHub)">GitHub</a>
+            <strong>Contact:</strong> <em>Giza, Egypt</em> | <strong>Email:</strong> <a href="mailto:adelromany99@gmail.com">adelromany99@gmail.com</a> | <strong>Phone:</strong> (+20)1278363205 | <strong>LinkedIn:</strong> <a href="(LinkedIn)">LinkedIn</a> | <strong>GitHub:</strong> <a href="(GitHub)">GitHub</a>
         </p>
 
         <h3>CAREER OBJECTIVES</h3>
