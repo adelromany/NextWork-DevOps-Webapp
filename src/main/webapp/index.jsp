@@ -14,18 +14,32 @@
             background-color: #2c3e50;
             color: white;
             padding: 20px;
-            text-align: center;
+            display: flex;
+            justify-content: space-between; /* Space out the content to the left and right */
+            align-items: center; /* Align items vertically */
         }
 
-        header h1 {
+        .header-left {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header-left h1 {
             margin: 0;
             font-size: 2.5em;
         }
 
-        header h2 {
+        .header-left h2 {
             font-size: 1.5em;
             margin-top: 0;
             font-weight: normal;
+        }
+
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%; /* Circle effect */
+            border: 5px solid #ecf0f1;
         }
 
         .container {
@@ -34,14 +48,6 @@
             margin: 0 auto;
             background-color: white;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .profile-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%; /* Circle effect */
-            margin-top: 20px;
-            border: 5px solid #ecf0f1;
         }
 
         h3 {
@@ -107,10 +113,14 @@
 <body>
 
     <header>
-        <!-- Profile Image in Circle -->
+        <!-- Left side with Name and Title -->
+        <div class="header-left">
+            <h1>Adel Romany Farid</h1>
+            <h2>DevOps Engineer</h2>
+        </div>
+
+        <!-- Right side with Profile Image -->
         <img src="Adel_R_Farid.jpg" alt="Adel Romany Farid" class="profile-image"/>
-        <h1>Adel Romany Farid</h1>
-        <h2>DevOps Engineer</h2>
     </header>
 
     <div class="container">
