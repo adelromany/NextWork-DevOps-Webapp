@@ -83,10 +83,3 @@ By the end of the challenge, I have:
 ## 🙌 Special Thanks
 
 Huge thanks to the incredible Natasha — an inspiring, energetic, and hilarious mentor — and the amazing team at NextWork for designing such an impactful and engaging challenge!
-
----
-
-## 📬 Connect
-
-Feel free to reach out or check my other projects if you'd like to collaborate or ask questions!
-
